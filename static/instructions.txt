@@ -1,0 +1,14 @@
+Step 1 : conda create -n broadcaster python=3.11
+
+Step 2 : conda activate broadcaster
+
+(Only for GPU user)
+Step 3 : conda install pytorch==2.5.1 torchvision==0.20.1 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+Step 4 : pip install -r requirements.txt
+
+Step 5 : open python interpreter
+
+Step 6 : import torch
+
+Step 7 :print(torch.cuda.is_available())
