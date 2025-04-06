@@ -200,5 +200,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for YOLO implementation
 - [FastAPI](https://fastapi.tiangolo.com/) for the API framework
 - [PyVirtualCam](https://github.com/letmaik/pyvirtualcam) for virtual camera support
-
-Similar code found with 1 license type
